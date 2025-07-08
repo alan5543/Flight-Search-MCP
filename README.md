@@ -4,6 +4,13 @@
 ## Introduction
 The Flight Search MCP Server enables Large Language Models (LLMs) to retrieve detailed flight search and information without requiring an API key. Using web scraping, it collects comprehensive data on flights, including prices, schedules, airlines, baggage allowances, and more. This server integrates seamlessly with MCP-compatible clients (e.g., Claude Desktop) to enhance flight search and analysis capabilities.
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/3a8b4431-a492-4cd6-b45e-300fcda05cda
+
+
+
 ## Tools
 The server provides one tool for scraping flight data, detailed below with its function name, parameters, and return value for clarity:
 
